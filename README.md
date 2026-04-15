@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/512px-Flag_of_Palestine.svg.png](https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg)" width="120" alt="Palestinian Flag">
+<img src="[[https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/512px-Flag_of_Palestine.svg.png](https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3IIBBUZXWXCF0BIzQOkGHKaCE4k7tMpWdRA&s)" width="120" alt="Palestinian Flag">
 
 # 𝗜𝗦𝗥𝗔𝗘𝗟𝗜_𝗩𝗜𝗢𝗟𝗘𝗡𝗖𝗘. 𝗔𝗥𝗖𝗛𝗜𝗩𝗘
 ### <code>[ RESTRICTED DOCKETS // PUBLIC DECLASSIFICATION ]</code>
