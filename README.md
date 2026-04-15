@@ -7,6 +7,10 @@
 
 <br>
 
+<img src="https://via.placeholder.com/800x400/000000/007A3D?text=+[+SYSTEM+DASHBOARD+PREVIEW+GIF+]" alt="System Dashboard Preview" width="80%" style="border: 1px solid #333; border-radius: 4px;">
+
+<br><br>
+
 [![System Status](https://img.shields.io/badge/SYSTEM-ONLINE-007A3D?style=for-the-badge&logo=probot&logoColor=white)](#)
 [![Total Capacity](https://img.shields.io/badge/CAPACITY-350_GB-000000?style=for-the-badge&logo=databricks&logoColor=white)](#)
 [![ICJ Status](https://img.shields.io/badge/ICJ_DOCKET-ACTIVE-CE1126?style=for-the-badge&logo=scales&logoColor=white)](#)
@@ -21,6 +25,14 @@
 </table>
 
 </div>
+
+---
+
+> [!IMPORTANT]
+> **SYSTEM NOTICE:** The `[CASUALTY-REG]` and `[COGAT-LOG]` nodes synchronize dynamically with international observers daily at 00:00 UTC. Do not interrupt the data pipeline during a sync cycle.
+
+> [!WARNING]
+> **SECURITY PROTOCOL:** Ensure your VPN is active and OPSEC measures are in place before mirroring the restricted dockets to your local environment.
 
 ---
 
@@ -55,13 +67,13 @@ graph TD;
     <td width="33%" align="center">
       <h3>🏛️ LEGAL</h3>
       <code>[ICJ-2024-GA]</code><br>
-      South Africa v. Israel<br>Genocide Convention<br>
+      South Africa v. Israel<br>Genocide Convention[^1]<br>
       <br><b>Status:</b> ACTIVE
     </td>
     <td width="33%" align="center">
       <h3>🛑 SIEGE</h3>
       <code>[COGAT-LOG]</code><br>
-      Gaza Blockade Manifests<br>6,800+ Days<br>
+      Gaza Blockade Manifests<br>6,800+ Days[^2]<br>
       <br><b>Status:</b> ONGOING
     </td>
     <td width="33%" align="center">
@@ -96,7 +108,7 @@ graph TD;
 | ID | CLASSIFICATION | DESCRIPTION |
 | :--- | :--- | :--- |
 | `GEO-01` | Displacement Maps | Satellite analysis of outpost expansion and agricultural demolitions. |
-| `WHO-02` | Medical Collapse | Systematic targeting of medical infrastructure and hospitals. |
+| `WHO-02` | Medical Collapse | Systematic targeting of medical infrastructure and hospitals.[^3] |
 | `EDU-03` | Scholasticide | Deliberate destruction of universities, archives, and cultural institutions. |
 
 </details>
@@ -134,7 +146,7 @@ root@israeli-violence-archive:~# echo "WE ARE NOT NUMBERS" >> permanent_record.t
 
 ## 💻 DEPLOY A MIRROR NODE
 
-To protect the integrity of these files from digital erasure, set up a local mirror.
+To protect the integrity of these files from digital erasure, set up a local mirror. 
 
 ```bash
 # Clone the repository
@@ -149,6 +161,25 @@ npm install
 # Boot the local dashboard
 npm run start
 ```
+*💡 **Tip:** Press <kbd>CTRL</kbd> + <kbd>C</kbd> in your terminal to safely terminate the local node server. Press <kbd>F11</kbd> in your browser to view the interface in full-screen dashboard mode.*
+
+---
+
+## 👥 SYSTEM OPERATORS // CONTRIBUTORS
+
+*Archival verification and data pipeline maintenance provided by the decentralized network.*
+
+<a href="https://github.com/your-username/ps-archive/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=your-username/ps-archive" alt="Contributors Grid"/>
+</a>
+
+---
+
+## 📑 CITATIONS & REFERENCES
+
+[^1]: Application of the Convention on the Prevention and Punishment of the Crime of Genocide in the Gaza Strip. Provisional measures indicating immediate military suspension.
+[^2]: Continuous siege documented under Articles 33 and 55 of the Fourth Geneva Convention.
+[^3]: Cross-referenced with UN OCHA and World Health Organization (WHO) field reports.
 
 <br>
 
