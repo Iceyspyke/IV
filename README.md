@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="https://via.placeholder.com/800x400/000000/007A3D?text=+[+SYSTEM+DASHBOARD+PREVIEW+GIF+]" alt="System Dashboard Preview" width="80%" style="border: 1px solid #333; border-radius: 4px;">
+<img src="https://via.placeholder.com/800x400/000000/007A3D?text=+[+SYSTEM+DASHBOARD+PREVIEW+GIF+]" alt="System Dashboard Preview" width="80%">
 
 <br><br>
 
@@ -18,11 +18,7 @@
 
 <br>
 
-<table>
-  <tr>
-    <td align="center">📡 <b>LIVE TELEMETRY:</b> <code>SYNCING TO DECENTRALIZED NODES...</code> █▓▒░ 99%</td>
-  </tr>
-</table>
+📡 **LIVE TELEMETRY:** `SYNCING TO DECENTRALIZED NODES...` █▓▒░ 99%
 
 </div>
 
@@ -62,28 +58,11 @@ graph TD;
 
 ## 🎛️ CORE MODULES // QUICK ACCESS
 
-<table align="center">
-  <tr>
-    <td width="33%" align="center">
-      <h3>🏛️ LEGAL</h3>
-      <code>[ICJ-2024-GA]</code><br>
-      South Africa v. Israel<br>Genocide Convention[^1]<br>
-      <br><b>Status:</b> ACTIVE
-    </td>
-    <td width="33%" align="center">
-      <h3>🛑 SIEGE</h3>
-      <code>[COGAT-LOG]</code><br>
-      Gaza Blockade Manifests<br>6,800+ Days[^2]<br>
-      <br><b>Status:</b> ONGOING
-    </td>
-    <td width="33%" align="center">
-      <h3>🗝️ HISTORY</h3>
-      <code>[1948-CENSUS]</code><br>
-      Village Depopulation Ledger<br>531 Towns<br>
-      <br><b>Status:</b> VERIFIED
-    </td>
-  </tr>
-</table>
+| 🏛️ LEGAL | 🛑 SIEGE | 🗝️ HISTORY |
+| :---: | :---: | :---: |
+| `[ICJ-2024-GA]` | `[COGAT-LOG]` | `[1948-CENSUS]` |
+| South Africa v. Israel<br>Genocide Convention[^1] | Gaza Blockade Manifests<br>6,800+ Days[^2] | Village Depopulation Ledger<br>531 Towns |
+| **Status:** ACTIVE | **Status:** ONGOING | **Status:** VERIFIED |
 
 ---
 
