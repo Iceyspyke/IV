@@ -1,115 +1,102 @@
 <div align="center">
 
-# 🗄️ ISRAELI_VIOLENCE. Archive
-**A Definitive Repository of Documented War Crimes, Occupation Records, and International Human Rights Reports.**
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/320px-Flag_of_Palestine.svg.png" width="100" alt="Palestinian Flag">
 
-[![Status: Active](https://img.shields.io/badge/Status-Active-red.svg)](#)
-[![Total Entries](https://img.shields.io/badge/Total_Entries-42,891-blue.svg)](#)
-[![ICJ Status](https://img.shields.io/badge/ICJ_Provisional_Measures-ACTIVE-orange.svg)](#)
-[![License: Open](https://img.shields.io/badge/License-Permanent-black.svg)](#)
+# 🗄️ ISRAELI_VIOLENCE. ARCHIVE
 
-*© 2026 ISRAELI_VIOLENCE. ALL RECORDS PERMANENT.*
+**[ REPOSITORY OF WAR CRIMES, OCCUPATION RECORDS & HUMAN RIGHTS REPORTS ]**
+
+*“We are not numbers.”*
+
+<br>
+
+[![Status](https://img.shields.io/badge/STATUS-ONLINE-success?style=for-the-badge&color=007A3D)](#)
+[![Exhibits](https://img.shields.io/badge/EXHIBITS-42,891-critical?style=for-the-badge&color=CE1126)](#)
+[![ICJ](https://img.shields.io/badge/ICJ_DOCKET-ACTIVE-informational?style=for-the-badge&color=000000)](#)
+[![License](https://img.shields.io/badge/RECORDS-PERMANENT-lightgrey?style=for-the-badge)](#)
 
 </div>
 
----
-
-## 📡 System Query Interface // Node: 4409X
-
-Welcome to the open repository for [ps-archive.pages.dev](https://ps-archive.pages.dev). This archive serves as an accessible, verified database for historical mandates, judicial monoliths, systemic impact documents, and human rights testimonies. 
-
-Click on the folders below to expand the archival nodes:
-
-<details>
-<summary><b>📂 I. Foundation & History</b> <i>(Click to Expand)</i></summary>
 <br>
 
-- `[1948-ARCHIVE]` **Nakba Records:** Chronology of occupation and displacement (1917 to present).
-- `[1948-CENSUS]` **Archive Registry:** 1948 Village Depopulation Ledger containing census data on 531 destroyed Palestinian towns.
-- **The Founding Mandates:** Documentation of the Balfour Declaration, UN Partition Plan (Res. 181), Oslo Accords, and the ICJ Wall Opinion.
-</details>
-
-<details>
-<summary><b>⚖️ II. Legal & Judicial Actions</b> <i>(Click to Expand)</i></summary>
-<br>
-
-- `[ICJ-2024-GA]` **ICJ Docket:** South Africa v. Israel (Genocide Convention Application).
-- `[ICC-01/18]` **The ICC Warrants:** Prosecutorial applications regarding war crimes.
-- `[UN-GA-SC]` **UN Resolutions:** 700+ General Assembly and Security Council records.
-- `[IHL-TREATY]` **Geneva Conventions Archive:** Legal matrix governing armed conflict.
-- `[STATE-ACT]` **State Compliance Monitor:** Global adherence to ICJ provisional orders.
-</details>
-
-<details>
-<summary><b>🛑 III. Systemic Impact & Siege</b> <i>(Click to Expand)</i></summary>
-<br>
-
-- `[COGAT-LOG]` **Siege Documents:** Blockade manifests covering the 6,800+ day continuous siege of Gaza.
-- `[COGAT-PERMITS]` **Movement & Access:** Checkpoint logs, permit denial rates, and barrier analysis.
-- `[SAT-ASSESS]` **Civil Infrastructure:** Satellite assessment and sectoral collapse metrics.
-- `[WHO-MSF]` **Medical Collapse:** Systematic targeting of medical infrastructure.
-- `[HERITAGE]` **Scholasticide:** Deliberate destruction of universities and cultural institutions.
-- `[SIGINT]` **Surveillance:** Digital architecture, biometrics, and Pegasus spyware deployment.
-</details>
-
-<details>
-<summary><b>👁️ IV. Human Rights & Testimonies</b> <i>(Click to Expand)</i></summary>
-<br>
-
-- `[AFFIDAVIT]` **Sworn Affidavits:** Verified firsthand accounts from civilians, medics, and observers.
-- `[MIL-COURT]` **Detention Records:** Military court registries, administrative detention, and mass incarceration logs.
-- `[CPJ-LOG]` **Press & Media:** Network severance, media bureau demolitions, and journalist casualty logs.
-</details>
-
-<details>
-<summary><b>🔍 V. Forensics & Complicity</b> <i>(Click to Expand)</i></summary>
-<br>
-
-- `[GEO-SAT]` **Displacement Maps:** Geospatial data and satellite analysis of outpost expansion.
-- `[LOGISTICS]` **Arms & Complicity:** International weapons transfers, export licenses, and defense contractor data.
-</details>
+> **SYSTEM BROADCAST 📡:** *This archive serves as an accessible, verified database for historical mandates, judicial monoliths, systemic impact documents, and human rights testimonies. All records permanent.*
 
 ---
 
-## 🗃️ Active Dockets & Live Nodes
+## 🖥️ TELEMETRY DASHBOARD
 
-> **PRIMARY DOCKET REF:** `ICJ-2024-GA`
-> *Application of the Convention on the Prevention and Punishment of the Crime of Genocide. Provisional measures indicating immediate military suspension and humanitarian access.*
-> 
-> 🟢 **PROCEEDINGS: ACTIVE**
-
-### 📊 Archival Telemetry
-
-| Metric | Current Status |
-|--------|----------------|
-| **Total Archival Capacity** | `350 GB` |
-| **Verified Exhibits** | `42,891` |
-| **Continuous Siege Log** | `6,800+ Days` |
-| **UN Resolutions Logged** | `700+` |
+| 🌿 NODE INTEGRITY | ⚖️ ACTIVE DOCKETS | 🗃️ STORAGE METRICS |
+| :--- | :--- | :--- |
+| 🟢 `[GEO-SAT]` Synced <br>🟢 `[CASUALTY-REG]` Live <br>🟢 `[COGAT-LOG]` Audited <br>🟢 `[MIL-COURT]` Verified | **South Africa v. Israel**<br>Ref: `ICJ-2024-GA`<br>Status: `PROVISIONAL ACTIVE`<br>---<br>**ICC Arrest Warrants**<br>Ref: `ICC-01/18` | **Total Capacity:** `350 GB`<br>**UN Resolutions:** `700+`<br>**Siege Duration:** `6,800+ Days`<br>**Depopulated Villages:** `531` |
 
 ---
 
-## 🛠️ Contributing & Data Mirroring
+## 📂 SYSTEM QUERY INTERFACE // ARCHIVE NODES
 
-To ensure the permanence of these records against censorship or digital decay, we encourage mirroring and decentralization. 
+*Select a directory below to expand archival nodes and access verified exhibits.*
 
-- [x] Review the **Declassification Policy**.
-- [x] Maintain the original schema for `[CLASSIFICATION]` tags when submitting new PRs.
-- [x] Verify exhibits against primary centralized databases and international observers before opening an issue.
+<details>
+<summary><b>🗝️ I. FOUNDATION & HISTORY </b> <i>(Click to Expand)</i></summary>
 
-### 💾 Local Node Setup
+> **Timeline spanning 1917 to present day.**
+* 📖 `[1948-ARCHIVE]` **Nakba Records:** Chronology of displacement and dispossession.
+* 🏘️ `[1948-CENSUS]` **Archive Registry:** Census data on 531 destroyed Palestinian towns.
+* 📜 **The Founding Mandates:** Balfour Declaration, UN Partition Plan, Oslo Accords, ICJ Wall Opinion.
+</details>
 
-To run the archive interface locally or sync the dockets:
+<details>
+<summary><b>⚖️ II. LEGAL & JUDICIAL ACTIONS </b> <i>(Click to Expand)</i></summary>
+
+> **Global and international legal proceedings.**
+* 🏛️ `[ICJ-2024-GA]` **ICJ Docket:** Genocide Convention Application.
+* ⚖️ `[ICC-01/18]` **The ICC Warrants:** Prosecutorial applications.
+* 🇺🇳 `[UN-GA-SC]` **UN Resolutions:** General Assembly and Security Council records.
+* 🛡️ `[IHL-TREATY]` **Geneva Conventions:** Legal matrix governing armed conflict.
+* 🌐 `[STATE-ACT]` **Compliance Monitor:** Global adherence to arms embargo rulings.
+</details>
+
+<details>
+<summary><b>🛑 III. SYSTEMIC IMPACT & SIEGE </b> <i>(Click to Expand)</i></summary>
+
+> **Documentation of blockades, surveillance, and infrastructure targeting.**
+* 🚧 `[COGAT-LOG]` **Siege Documents:** Land, air, and sea blockade manifests.
+* 🛂 `[COGAT-PERMITS]` **Movement & Access:** Checkpoint logs and barrier analysis.
+* 🏚️ `[SAT-ASSESS]` **Civil Infrastructure:** Satellite assessment of sectoral collapse.
+* 🏥 `[WHO-MSF]` **Medical Collapse:** Targeting of hospitals and medical staff.
+* 📚 `[HERITAGE]` **Scholasticide:** Erasure of universities and cultural sites.
+* 👁️ `[SIGINT]` **Surveillance:** Biometrics and Pegasus spyware deployment.
+</details>
+
+<details>
+<summary><b>🍉 IV. HUMAN RIGHTS & TESTIMONIES </b> <i>(Click to Expand)</i></summary>
+
+> **On-the-ground reporting and individual accounts.**
+* 🗣️ `[AFFIDAVIT]` **Sworn Affidavits:** Verified accounts from civilians and medics.
+* ⛓️ `[MIL-COURT]` **Detention Records:** Administrative detention and child prisoner logs.
+* 📡 `[CPJ-LOG]` **Press & Media:** Network severance and journalist casualty logs.
+</details>
+
+<details>
+<summary><b>🔍 V. FORENSICS & COMPLICITY </b> <i>(Click to Expand)</i></summary>
+
+> **Data analysis, geospatial tracking, and international complicity.**
+* 🗺️ `[GEO-SAT]` **Displacement Maps:** Satellite analysis of Area C expansion.
+* 🚢 `[LOGISTICS]` **Arms Network:** International weapons transfers and defense contractor data.
+</details>
+
+---
+
+## 📟 TERMINAL OUTPUT // LATEST QUERIES
 
 ```bash
-# Clone the repository node
-git clone [https://github.com/your-username/ps-archive.git](https://github.com/your-username/ps-archive.git)
+USER@NODE-4409X:~$ grep -r "Provisional Measures" /dockets/ICJ-2024
+> MATCH FOUND: Application indicating immediate military suspension and humanitarian access.
+> STATUS: BINDING / PENDING ENFORCEMENT
 
-# Navigate to the directory
-cd ps-archive
-
-# Install dependencies
-npm install
-
-# Initialize the local query interface
-npm run start
+USER@NODE-4409X:~$ cat /metrics/blockade_duration.json
+{
+  "start_year": 2007,
+  "current_days": 6800,
+  "status": "active",
+  "legal_framework": ["Article 33", "Article 55", "Fourth Geneva Convention"]
+}
